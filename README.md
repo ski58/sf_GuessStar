@@ -1,4 +1,4 @@
-<h2 align='center'>SkillFactory project «Guess star»</h2>
+<h2 align='center'>SkillFactory project «Guess the celebrity»</h2>
   
 ### Setting up the project
 Imagine the following situation.
